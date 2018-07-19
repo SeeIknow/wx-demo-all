@@ -1,0 +1,4 @@
+/* pages/cart/cart.wxss */
+.cart{
+  height:5000rpx
+}
